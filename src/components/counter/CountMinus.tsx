@@ -6,7 +6,7 @@ const CountMinus = () => {
   const { decriment } = useCountStore();
   return (
     <div>
-      <button onClick={decriment}>Minus</button>
+      <button onClick={decriment}>Minss</button>
     </div>
   );
   //
