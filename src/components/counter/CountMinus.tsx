@@ -10,7 +10,7 @@ const CountMinus = () => {
     </div>
   );
   //
-  //git branch
+  //git aibek
 };
 
 export default CountMinus;
