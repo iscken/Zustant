@@ -6,11 +6,11 @@ const CountMinus = () => {
   const { decriment } = useCountStore();
   return (
     <div>
-      <button onClick={decriment}>Minss</button>
+      <button onClick={decriment}>Minssssssss</button>
     </div>
   );
   //
-  //git aibek
+  //git
 };
 
 export default CountMinus;
